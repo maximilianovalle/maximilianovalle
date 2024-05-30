@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey, I'm Maximiliano!
+I'm a frontend developer based in Houston, Texas.
+
+## Technologies and Tools:
+[![My skills](https://skillicons.dev/icons?i=html,css,git,github,vscode,cpp)](https://skillicons.dev)
 
 <!--
 **maximilianovalle/maximilianovalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
