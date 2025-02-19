@@ -1,5 +1,5 @@
 # Hey, I'm Maximiliano!
-Frontend developer based in <strong>Houston, Texas</strong>.
+Aspiring software developer based in <strong>Houston, Texas</strong>.
 
 ## Technologies and Tools:
 [![My skills](https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,cpp)](https://skillicons.dev)
