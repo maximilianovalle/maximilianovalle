@@ -2,7 +2,7 @@
 Based in <strong>Houston, Texas</strong>.
 
 ## Technologies and Tools:
-[![My skills](https://skillicons.dev/icons?i=react,html,css,javascript,nodejs,npm,mysql,cpp,git,github,vscode)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=cpp,python,react,html,css,javascript,nodejs,npm,mysql,postgres,git,github,vscode)](https://skillicons.dev)
 
 ## About Me:
 I'm a <strong>University of Houston</strong> student majoring in Computer Science. <em>Go Coogs!</em> Most of my current job experience has been in the education field (tutor + substitute teacher) but I also have experience working with animals due to volunteering for veterinary events in the past. In my freetime, I love creating digital illustrations and designs - so much so that I occasionally work with clients to bring their illustrative ideas to life. I also enjoy going to the gym, taking walks with my two dogs (Squeaky and Pipi), and playing video games like <em>Fortnite</em>!
