@@ -1,15 +1,11 @@
 # Hey, I'm Maximiliano!
 Based in <strong>Houston, Texas</strong>.
 
-## Technologies and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,react,html,css,javascript,ts,nodejs,express,vite,npm,mysql,postgres,git,github,vscode,figma&perline=10" />
-  </a>
-</p>
-
 ## About Me:
 I'm a <strong>University of Houston</strong> student majoring in Computer Science. <em>Go Coogs!</em> Most of my current job experience has been in the education field (tutor + substitute teacher) but I also have experience working with animals due to volunteering for veterinary events in the past. In my freetime, I love creating digital illustrations and designs - so much so that I occasionally work with clients to bring their illustrative ideas to life. I also enjoy going to the gym, taking walks with my two dogs (Squeaky and Pipi), and sewing!
+
+## Technologies and Tools:
+[![My skills](https://skillicons.dev/icons?i=cpp,python,react,html,css,javascript,ts,nodejs,express,vite,npm,mysql,postgres,git,github,vscode,figma)](https://skillicons.dev)
 
 ## Contact:
 <a href="https://www.linkedin.com/in/maximilianovalle/" target="_blank" rel="noopener noreferrer">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
