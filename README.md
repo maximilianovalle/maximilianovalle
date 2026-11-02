@@ -2,7 +2,7 @@
 Based in <strong>Houston, Texas</strong>.
 
 ## About Me:
-I'm a <strong>University of Houston</strong> student majoring in Computer Science. <em>Go Coogs!</em> I'm also currently interning as a software developer for <strong>Momentous Automation</strong> - we work mainly with C# and .NET to bring our clients' projects to life! In my freetime, I love creating digital illustrations, going on jogs, taking walks with my two dogs (Squeaky and Pipi), and skateboarding!
+I'm a recent graduate from the <strong>University of Houston</strong> with a B.S. in Computer Science (<em>Go Coogs!</em>). I'm also currently working as a software developer for <strong>Momentous Automation</strong> - we work mainly in C# to bring our clients' projects to life. In my freetime, I love creating digital illustrations, watching movies, and taking walks with my two dogs (Pipi and Squeaky).
 
 ## Technologies and Tools:
 [![My skills](https://skillicons.dev/icons?i=dotnet,cs,c,cpp,html,css,javascript,mysql,postgres,git,github,visualstudio,vscode,figma,stackoverflow)](https://skillicons.dev)
